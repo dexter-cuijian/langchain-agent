@@ -3,8 +3,6 @@ module.exports = {
   plugins: ['@typescript-eslint'],
   extends: [
     'eslint:recommended',
-    'plugin:@typescript-eslint/recommended',
-    // 其他配置...
+    'plugin:@typescript-eslint/recommended'
   ],
-  // ...
 };
